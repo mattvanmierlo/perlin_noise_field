@@ -8,7 +8,7 @@ let noiseChange = 0.02;
 let cSlider;
 
 function setup(){
-    createCanvas(2000,2000);
+    createCanvas(500,500);
     background(255);
     colorMode(HSB,100);
     dim = 100;
